@@ -9,4 +9,24 @@
 
 # Student Management System
 
+This system consist basic CRUD system, user can login as Teacher. User can key in some student information also can arrange classes and course. This my first Laravel project that I build on my own from scratch. Lot project more in future.
 
+The user interface is using Bootstrap and I using template from Kaiadmin **Live Preview** : https://themekita.com/demo-kaiadmin-lite-bootstrap-dashboard/livepreview/demo1/
+
+Here some UI from the website
+
+## Login UI
+![alt text](<readme image/Login.png>)
+
+## Dashboard
+![alt text](<readme image/dashboard.png>)
+
+## Student List
+![alt text](<readme image/studentList.png>)
+
+## Student Registration
+![alt text](<readme image/student_register.png>)
+
+## Database
+
+I using Xampp as database for system.
